@@ -4,14 +4,14 @@ This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3
 
 ## How to run this repo ?
 
-1- Deploy a Stable diffusion model to Runpod from huggingface
-2- Create your serverless API on Runpod
-3- Create a stripe account
-4- create a supabase project
-5- clone this repo
-6- `npm install`
-7- `prisma db push`
-8- `npm run dev`
+- Deploy a Stable diffusion model to Runpod from huggingface
+- Create your serverless API on Runpod
+- Create a stripe account
+- create a supabase project
+- clone this repo
+- `npm install`
+- `prisma db push`
+- `npm run dev`
 
 ## What's next? How do I make an app with this?
 
